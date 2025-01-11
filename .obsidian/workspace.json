@@ -21,8 +21,39 @@
               "icon": "lucide-file",
               "title": "Boyle's Law"
             }
+          },
+          {
+            "id": "42c2ada530c38e9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Indexes/Chemistry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chemistry"
+            }
+          },
+          {
+            "id": "cd7555e5a2384458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main Notes/Dalton's Law of Partial Pressure.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dalton's Law of Partial Pressure"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - Main Notes/Boyle's Law.md",
+                "file": "1 - Main Notes/Dalton's Law of Partial Pressure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Boyle's Law"
+              "title": "Graph of Dalton's Law of Partial Pressure"
             }
           }
         ]
@@ -217,13 +248,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "626f426dcca63d44",
+  "active": "cd7555e5a2384458",
   "lastOpenFiles": [
+    "3 - Indexes/Chemistry.md",
+    "1 - Main Notes/Dalton's Law of Partial Pressure.md",
+    "1 - Main Notes/Boyle's Law.md",
     "6 - Images/Graphical-Representation-of-Boyles-Law-1024x462.png",
     "5 - Templates/Subscript Template.md",
-    "1 - Main Notes/Boyle's Law.md",
     "1 - Main Notes/Untitled 1.md",
-    "1 - Main Notes/Untitled.md",
     "1 - Main Notes/Rutherford's Scattering Experiment (Nuclear Model).md",
     "1 - Main Notes/Origin of Hydrogen Spectra.md",
     "3 - Indexes/Physics.md",
@@ -232,7 +264,6 @@
     "4 - Tags/Gaseous State.md",
     "2 - Rough Notes/Books to Read (Mathematics).md",
     "1 - Main Notes/Origin Hydrogen Spectra.md",
-    "3 - Indexes/Chemistry.md",
     "1 - Main Notes/Planck's constant.md",
     "4 - Tags/Physical Chemistry.md",
     "6 - Images/alpha ray scattering diagram.png",
