@@ -38,6 +38,51 @@
             }
           },
           {
+            "id": "7b15b22454e4e577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main Notes/Graham's  Law of Diffusion of Gases.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graham's  Law of Diffusion of Gases"
+            }
+          },
+          {
+            "id": "d68c531aca434b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main Notes/Rules of Oxidation and Reduction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rules of Oxidation and Reduction"
+            }
+          },
+          {
+            "id": "7ea3fa5b13d90bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main Notes/Limiting Reagent.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limiting Reagent"
+            }
+          },
+          {
             "id": "cd7555e5a2384458",
             "type": "leaf",
             "state": {
@@ -51,9 +96,24 @@
               "icon": "lucide-file",
               "title": "Books to Read (Mathematics)"
             }
+          },
+          {
+            "id": "2b63ef7b3ec286d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main Notes/Rules of Oxidation and Reduction.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rules of Oxidation and Reduction"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -199,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - Main Notes/Dalton's Law of Partial Pressure.md",
+                "file": "1 - Main Notes/Rules of Oxidation and Reduction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +287,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dalton's Law of Partial Pressure"
+              "title": "Graph of Rules of Oxidation and Reduction"
             }
           }
         ]
@@ -248,23 +308,28 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "42c2ada530c38e9f",
+  "active": "2b63ef7b3ec286d8",
   "lastOpenFiles": [
+    "1 - Main Notes/Dalton's Law of Partial Pressure.md",
+    "1 - Main Notes/Planck's constant.md",
+    "1 - Main Notes/Origin of Hydrogen Spectra.md",
+    "1 - Main Notes/Graham's  Law of Diffusion of Gases.md",
+    "1 - Main Notes/Rutherford's Scattering Experiment (Nuclear Model).md",
+    "2 - Rough Notes/NTP.md",
+    "2 - Rough Notes/Books to Read (Mathematics).md",
+    "1 - Main Notes/Limiting Reagent.md",
+    "1 - Main Notes/Rules of Oxidation and Reduction.md",
+    "1 - Main Notes/Oxidation and Reduction.md",
     "3 - Indexes/Chemistry.md",
     "1 - Main Notes/Boyle's Law.md",
-    "2 - Rough Notes/Books to Read (Mathematics).md",
-    "1 - Main Notes/Dalton's Law of Partial Pressure.md",
     "6 - Images/Graphical-Representation-of-Boyles-Law-1024x462.png",
     "5 - Templates/Subscript Template.md",
     "1 - Main Notes/Untitled 1.md",
-    "1 - Main Notes/Rutherford's Scattering Experiment (Nuclear Model).md",
-    "1 - Main Notes/Origin of Hydrogen Spectra.md",
     "3 - Indexes/Physics.md",
     "1 - Main Notes/Bohr's Atomic Model.md",
     "4 - Tags/States of Matter.md",
     "4 - Tags/Gaseous State.md",
     "1 - Main Notes/Origin Hydrogen Spectra.md",
-    "1 - Main Notes/Planck's constant.md",
     "4 - Tags/Physical Chemistry.md",
     "6 - Images/alpha ray scattering diagram.png",
     "5 - Templates/M.C.P Note Template.md",
