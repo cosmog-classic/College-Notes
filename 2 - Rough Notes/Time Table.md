@@ -14,7 +14,8 @@
 - Focus on most challenging subjects first when mind is fresher
 - Use Pomodoro technique: 45 minutes study, 5 minutes break
 
-9:00 PM - 9:30 PM: Dinner 9:30 PM - 11:00 PM: Additional study/IOI practice
+9:00 PM - 9:30 PM: Dinner 
+9:30 PM - 11:00 PM: Additional study/IOI practice
 
 - Alternate between theoretical and practical problems
 - Last 15 minutes: prep for next day
