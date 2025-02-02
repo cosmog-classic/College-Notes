@@ -88,13 +88,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Rough Notes/Books to Read (Mathematics).md",
+                "file": "2 - Rough Notes/integrated-schedule.md",
                 "mode": "preview",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Books to Read (Mathematics)"
+              "title": "integrated-schedule"
+            }
+          },
+          {
+            "id": "934b889ec9d89f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Rough Notes/Time Table.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Time Table"
             }
           },
           {
@@ -103,13 +136,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main Notes/Rules of Oxidation and Reduction.md",
-                "mode": "preview",
+                "file": "2 - Rough Notes/integrated-schedule.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Rules of Oxidation and Reduction"
+              "title": "integrated-schedule"
             }
           }
         ],
@@ -132,7 +174,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -259,7 +302,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - Main Notes/Rules of Oxidation and Reduction.md",
+                "file": "2 - Rough Notes/Time Table.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,7 +330,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Rules of Oxidation and Reduction"
+              "title": "Graph of Time Table"
             }
           }
         ]
@@ -308,17 +351,21 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "2b63ef7b3ec286d8",
+  "active": "934b889ec9d89f66",
   "lastOpenFiles": [
+    "2 - Rough Notes/integrated-schedule.md",
+    "2 - Rough Notes/Time Table.md",
+    "2 - Rough Notes/integrated-schedule(1).md",
+    "2 - Rough Notes/Books to Read (Mathematics).md",
+    "2 - Rough Notes/IOI+IAIO.md",
+    "1 - Main Notes/NTP.md",
+    "1 - Main Notes/Rules of Oxidation and Reduction.md",
     "1 - Main Notes/Dalton's Law of Partial Pressure.md",
     "1 - Main Notes/Planck's constant.md",
     "1 - Main Notes/Origin of Hydrogen Spectra.md",
     "1 - Main Notes/Graham's  Law of Diffusion of Gases.md",
     "1 - Main Notes/Rutherford's Scattering Experiment (Nuclear Model).md",
-    "2 - Rough Notes/NTP.md",
-    "2 - Rough Notes/Books to Read (Mathematics).md",
     "1 - Main Notes/Limiting Reagent.md",
-    "1 - Main Notes/Rules of Oxidation and Reduction.md",
     "1 - Main Notes/Oxidation and Reduction.md",
     "3 - Indexes/Chemistry.md",
     "1 - Main Notes/Boyle's Law.md",
@@ -340,7 +387,6 @@
     "3 - Indexes",
     "1 - Main Notes",
     "6 - Atomic Notes",
-    "5 - Templates/Atomic Note Template.md",
     "5 - Templates",
     "4 - Indexes",
     "4 - Tags"
